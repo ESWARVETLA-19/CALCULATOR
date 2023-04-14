@@ -1,4 +1,4 @@
-var buttons=document.querySelectorAll("button");
+
 var display=document.querySelector("#display");
 document.addEventListener("click", btn);
 
